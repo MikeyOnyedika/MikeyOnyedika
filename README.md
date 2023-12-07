@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeyonyedika&label=Profile%20views&color=0e75b6&style=flat" alt="mikeyonyedika" /> </p>
 
-- 🔭 I’m currently working on **miniCMS, a basic content management system**
+- 🔭 I’m currently working on **my skills with projects and hackathons**
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 
