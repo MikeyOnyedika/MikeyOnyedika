@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MikeyOnyedika</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
+<h3 align="center">I'm a fullstack developer and I build stuff for the web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeyonyedika&label=Profile%20views&color=0e75b6&style=flat" alt="mikeyonyedika" /> </p>
 
